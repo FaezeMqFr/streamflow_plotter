@@ -13,7 +13,7 @@ The script plots the streamflow time series from these sources on a single graph
 
 Below is a sample output showing daily streamflow data at a specific location:
 
-![Daily Streamflow](![myplot](https://github.com/user-attachments/assets/144a11e6-1897-4f77-8d54-a410b93f2504))
+![Daily Streamflow](myplot.png)
 
 *(Replace `plot_screenshot.png` with the actual file name if it’s different.)*
 
