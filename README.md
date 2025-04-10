@@ -15,7 +15,7 @@ Below is a sample output showing daily streamflow data at a specific location:
 
 ![Daily Streamflow](myplot.png)
 
-*(Replace `plot_screenshot.png` with the actual file name if it’s different.)*
+
 
 ## Features
 
